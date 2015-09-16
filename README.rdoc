@@ -26,3 +26,7 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+Meetup.com Tech Talk
+I want to attend the Product Development and Marketing talk on Wed, Sep 30, but it conflicts with our class. Instead, the following is a Tech Talk I'm interested in:
+Josh Seiden, Author of LeanUX, Discusses Learning from Live Systems
